@@ -39,7 +39,7 @@
    
         <repositories>
           <repository>
-             <id>SpringFeed</id>
+             <id>springfeed1</id>
              <url>https://pkgs.dev.azure.com/divyadhani19/Artifact/_packaging/SpringFeed/maven/v1</url>
              <releases>
              <enabled>true</enabled>
@@ -52,7 +52,7 @@
     
     <distributionManagement>
        <repository>
-             <id>SpringFeed</id>
+             <id>springfeed1</id>
              <url>https://pkgs.dev.azure.com/divyadhani19/Artifact/_packaging/SpringFeed/maven/v1</url>
              <releases>
              <enabled>true</enabled>
