@@ -37,30 +37,30 @@
 
 
    
-        <repositories>
+       <repositories>
           <repository>
-             <id>springfeed1</id>
-             <url>https://pkgs.dev.azure.com/divyadhani19/Artifact/_packaging/SpringFeed/maven/v1</url>
-             <releases>
-             <enabled>true</enabled>
-             </releases>
-             <snapshots>
-            <enabled>true</enabled>
-             </snapshots>
-            </repository>
-        </repositories>
+          <id>springfeed2</id>
+          <url>https://pkgs.dev.azure.com/pawanbujji19210802/artifact/_packaging/springfeed2/maven/v1</url>
+          <releases>
+          <enabled>true</enabled>
+          </releases>
+          <snapshots>
+          <enabled>true</enabled>
+          </snapshots>
+          </repository>
+       </repositories>
     
     <distributionManagement>
-       <repository>
-             <id>springfeed1</id>
-             <url>https://pkgs.dev.azure.com/divyadhani19/Artifact/_packaging/SpringFeed/maven/v1</url>
-             <releases>
-             <enabled>true</enabled>
-             </releases>
-             <snapshots>
-             <enabled>true</enabled>
-             </snapshots>
-            </repository>
+          <repository>
+          <id>springfeed2</id>
+          <url>https://pkgs.dev.azure.com/pawanbujji19210802/artifact/_packaging/springfeed2/maven/v1</url>
+          <releases>
+          <enabled>true</enabled>
+          </releases>
+          <snapshots>
+          <enabled>true</enabled>
+          </snapshots>
+          </repository>
      </distributionManagement>
         
     <dependencies>
