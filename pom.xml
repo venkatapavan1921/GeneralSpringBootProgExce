@@ -39,8 +39,8 @@
    
        <repositories>
           <repository>
-          <id>springfeed2</id>
-          <url>https://pkgs.dev.azure.com/pawanbujji19210802/artifact/_packaging/springfeed2/maven/v1</url>
+          <id>sprinfeed</id>
+          <url>https://pkgs.dev.azure.com/kalyankumar1500/artifacts/_packaging/sprinfeed/maven/v1</url>
           <releases>
           <enabled>true</enabled>
           </releases>
@@ -52,8 +52,8 @@
     
     <distributionManagement>
           <repository>
-          <id>springfeed2</id>
-          <url>https://pkgs.dev.azure.com/pawanbujji19210802/artifact/_packaging/springfeed2/maven/v1</url>
+          <id>sprinfeed</id>
+          <url>https://pkgs.dev.azure.com/kalyankumar1500/artifacts/_packaging/sprinfeed/maven/v1</url>
           <releases>
           <enabled>true</enabled>
           </releases>
